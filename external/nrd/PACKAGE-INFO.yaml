@@ -1,0 +1,8 @@
+Package : NRD
+Version : 4.2.1
+Maintainers : StreamlineSupport@nvidia.com
+Description : NVIDIA Real-Time Denoisers (NRD) is a spatio-temporal API agnostic denoising library.
+SWIPAT NvBug : 
+Repository : https://gitlab-master.nvidia.com/nrd/nrd
+Branch : master
+Commit : 4b51d87e3cab2a9b429a7408d47c38653b4e41e8

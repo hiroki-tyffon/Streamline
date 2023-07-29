@@ -1,0 +1,5 @@
+Package : winpixeventruntime
+Description : Allows applications to be instrumented with marker events, for use with Microsoft PIX.
+Maintainers : hfannar@nvidia.com
+SWIPAT NvBug : http://nvbugs/2679383
+Repository : https://gitlab-master.nvidia.com/carbon/Carbonite-externals/winpixeventruntime

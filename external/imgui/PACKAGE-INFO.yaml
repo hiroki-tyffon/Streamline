@@ -1,0 +1,15 @@
+Package : imgui
+Version : 1.77_WIP-d405d530
+Maintainers : seant@nvidia.com
+Description : A bloat-free graphical user interface library for C++.
+SWIPAT NvBug : http://nvbugs/2676310
+Repository : https://gitlab-master.nvidia.com/carbon/Carbonite-externals/imgui.git
+Branch : nvidia-docking
+Commit : d405d530806eb9584f2ae3348c4e4d992e200768
+Time : Wed Aug 12 03:55:43 2020
+Builder Name : WIN10-2019-09U2
+Packman Version : 6.10
+Packagemaker Version : 5.1.6.4
+CI Build Number : 19
+CI System : Teamcity
+CI Version : 2019.2 (build 71499)

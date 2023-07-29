@@ -1,0 +1,8 @@
+Package : implot
+Version : 0.14 (tot master)
+Maintainers : StreamlineSupport@nvidia.com
+Description : GPU accelerated plotting library for Dear ImGui.
+SWIPAT NvBug : http://nvbugs/3955490
+Repository : https://github.com/epezent/implot
+Branch : master
+Commit : d87512353495e7760e7fda7566a05beef7627d8f
